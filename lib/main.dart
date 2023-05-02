@@ -1,5 +1,4 @@
-import 'package:android_club_redesign/pages/home.dart';
-import 'package:android_club_redesign/pages/our_team.dart';
+import 'package:android_club_redesign/pages/members_page/our_team.dart';
 import 'package:flutter/material.dart';
 
 void main() {

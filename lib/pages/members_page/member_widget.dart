@@ -1,8 +1,9 @@
 import 'dart:ui';
 
-import 'package:android_club_redesign/pages/member_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+
+import 'member_model.dart';
 
 class MemeberWidget extends StatefulWidget {
   final MemberModel details;
